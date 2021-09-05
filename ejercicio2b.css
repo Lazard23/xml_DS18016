@@ -1,0 +1,8 @@
+/* ejercicio2a.css   DS18016  */
+pais {background-color:rgb(102, 207, 61);}
+departamento {background-color:rgb(128, 26, 0); display:block;} 
+cabecera {color:rgb(60, 0, 128); display:inline;} 
+habitantes {color:green; display:inline;}
+altura {color:green;font-size:15cm; display:none;}
+moneda {color:green; display:inline;}
+patrono {color:green; display:inline;}

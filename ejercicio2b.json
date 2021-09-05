@@ -1,0 +1,31 @@
+{
+	"pais":{
+		"@nombre":"El Salvador",
+		"departamento":[
+			{
+				"@id":"1",
+				"@nombre":"San Salvador",
+				"cabecera":"San Salvador",
+				"habitantes":"1,700,000",
+				"altura":"545 MSNM"
+			},
+			{
+				"@id":"2",
+				"@nombre":"Sonsonate",
+				"cabecera":"Santa ana",
+				"habitantes":"80,821",
+				"altura":"300 Metros/nivel del mar",
+				"moneda":"Dolar estadounidense"
+			},
+			{
+				"@id":"3",
+				"@nombre":"San miguel",
+				"cabecera":"San miguel",
+				"habitantes":"264,091",
+				"altura":"665 MSNM",
+				"moneda":"Dolar estadounidense",
+				"patrono":"San miguel"
+			}
+		]
+	}
+}
